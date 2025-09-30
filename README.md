@@ -22,7 +22,7 @@ It highlights key Alma College locations with markers and popups.
    or run with **Live Server** in VS Code  
 
 ## 🌐 Live Preview
-👉 [See it here on GitHub Pages]((http://127.0.0.1:5500/index.html))
+👉 [See it here on GitHub Pages](http://127.0.0.1:5500/index.html)
 
 
  
