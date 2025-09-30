@@ -22,5 +22,6 @@ It highlights key Alma College locations with markers and popups.
    or run with **Live Server** in VS Code  
 
 ## 🌐 Live Preview
-👉 [See it here on GitHub Pages](rayanedebbarh.github.io/campus-map/)
+👉 [See it here on GitHub Pages](https://rayanedebbarh.github.io/campus-map/)
+
  
