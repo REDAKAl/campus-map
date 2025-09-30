@@ -24,5 +24,9 @@ It highlights key Alma College locations with markers and popups.
 ## 🌐 Live Preview
 👉 [See it here on GitHub Pages](http://127.0.0.1:5500/index.html)
 
+## 📸 Screenshot
+![Campus Map Preview](screenshot.png)
+
+
 
  
